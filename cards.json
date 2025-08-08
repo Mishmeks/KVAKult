@@ -1,0 +1,220 @@
+{
+  "followers": [
+    {
+      "title": "FollowerCard 17",
+      "img": "assets/cards/followers/FollowerCard (17).png"
+    },
+    {
+      "title": "FollowerCard 18",
+      "img": "assets/cards/followers/FollowerCard (18).png"
+    },
+    {
+      "title": "FollowerCard 19",
+      "img": "assets/cards/followers/FollowerCard (19).png"
+    },
+    {
+      "title": "FollowerCard 20",
+      "img": "assets/cards/followers/FollowerCard (20).png"
+    },
+    {
+      "title": "FollowerCard 21",
+      "img": "assets/cards/followers/FollowerCard (21).png"
+    },
+    {
+      "title": "FollowerCard 22",
+      "img": "assets/cards/followers/FollowerCard (22).png"
+    },
+    {
+      "title": "FollowerCard 23",
+      "img": "assets/cards/followers/FollowerCard (23).png"
+    },
+    {
+      "title": "FollowerCard 24",
+      "img": "assets/cards/followers/FollowerCard (24).png"
+    },
+    {
+      "title": "FollowerCard 25",
+      "img": "assets/cards/followers/FollowerCard (25).png"
+    },
+    {
+      "title": "FollowerCard 26",
+      "img": "assets/cards/followers/FollowerCard (26).png"
+    },
+    {
+      "title": "FollowerCard 27",
+      "img": "assets/cards/followers/FollowerCard (27).png"
+    },
+    {
+      "title": "FollowerCard 28",
+      "img": "assets/cards/followers/FollowerCard (28).png"
+    },
+    {
+      "title": "FollowerCard 29",
+      "img": "assets/cards/followers/FollowerCard (29).png"
+    },
+    {
+      "title": "FollowerCard 30",
+      "img": "assets/cards/followers/FollowerCard (30).png"
+    },
+    {
+      "title": "FollowerCard 31",
+      "img": "assets/cards/followers/FollowerCard (31).png"
+    },
+    {
+      "title": "FollowerCard 32",
+      "img": "assets/cards/followers/FollowerCard (32).png"
+    },
+    {
+      "title": "FollowerCard 33",
+      "img": "assets/cards/followers/FollowerCard (33).png"
+    }
+  ],
+  "curses": [
+    {
+      "title": "CurseCard 12",
+      "img": "assets/cards/curses/CurseCard (12).png"
+    },
+    {
+      "title": "CurseCard 13",
+      "img": "assets/cards/curses/CurseCard (13).png"
+    },
+    {
+      "title": "CurseCard 14",
+      "img": "assets/cards/curses/CurseCard (14).png"
+    },
+    {
+      "title": "CurseCard 15",
+      "img": "assets/cards/curses/CurseCard (15).png"
+    },
+    {
+      "title": "CurseCard 16",
+      "img": "assets/cards/curses/CurseCard (16).png"
+    },
+    {
+      "title": "CurseCard 17",
+      "img": "assets/cards/curses/CurseCard (17).png"
+    },
+    {
+      "title": "CurseCard 18",
+      "img": "assets/cards/curses/CurseCard (18).png"
+    },
+    {
+      "title": "CurseCard 19",
+      "img": "assets/cards/curses/CurseCard (19).png"
+    },
+    {
+      "title": "CurseCard 20",
+      "img": "assets/cards/curses/CurseCard (20).png"
+    },
+    {
+      "title": "CurseCard 21",
+      "img": "assets/cards/curses/CurseCard (21).png"
+    },
+    {
+      "title": "CurseCard 22",
+      "img": "assets/cards/curses/CurseCard (22).png"
+    },
+    {
+      "title": "CurseCard 23",
+      "img": "assets/cards/curses/CurseCard (23).png"
+    }
+  ],
+  "rituals": [
+    {
+      "title": "RitualCard 12",
+      "img": "assets/cards/rituals/RitualCard (12).png"
+    },
+    {
+      "title": "RitualCard 13",
+      "img": "assets/cards/rituals/RitualCard (13).png"
+    },
+    {
+      "title": "RitualCard 14",
+      "img": "assets/cards/rituals/RitualCard (14).png"
+    },
+    {
+      "title": "RitualCard 15",
+      "img": "assets/cards/rituals/RitualCard (15).png"
+    },
+    {
+      "title": "RitualCard 16",
+      "img": "assets/cards/rituals/RitualCard (16).png"
+    },
+    {
+      "title": "RitualCard 17",
+      "img": "assets/cards/rituals/RitualCard (17).png"
+    },
+    {
+      "title": "RitualCard 18",
+      "img": "assets/cards/rituals/RitualCard (18).png"
+    },
+    {
+      "title": "RitualCard 19",
+      "img": "assets/cards/rituals/RitualCard (19).png"
+    },
+    {
+      "title": "RitualCard 20",
+      "img": "assets/cards/rituals/RitualCard (20).png"
+    },
+    {
+      "title": "RitualCard 21",
+      "img": "assets/cards/rituals/RitualCard (21).png"
+    },
+    {
+      "title": "RitualCard 22",
+      "img": "assets/cards/rituals/RitualCard (22).png"
+    },
+    {
+      "title": "RitualCard 23",
+      "img": "assets/cards/rituals/RitualCard (23).png"
+    }
+  ],
+  "zones": [
+    {
+      "title": "CityGrib",
+      "img": "assets/cards/zones/CityGrib.png"
+    },
+    {
+      "title": "EnemyAltar",
+      "img": "assets/cards/zones/EnemyAltar.png"
+    },
+    {
+      "title": "HolyLand",
+      "img": "assets/cards/zones/HolyLand.png"
+    },
+    {
+      "title": "PoisonedLake",
+      "img": "assets/cards/zones/PoisonedLake.png"
+    },
+    {
+      "title": "Swamp",
+      "img": "assets/cards/zones/Swamp.png"
+    }
+  ],
+  "leaders": [
+    {
+      "title": "Jabra",
+      "img": "assets/cards/leaders/Jabra.png"
+    },
+    {
+      "title": "Krull",
+      "img": "assets/cards/leaders/Krull.png"
+    },
+    {
+      "title": "Kvakimir",
+      "img": "assets/cards/leaders/Kvakimir.png"
+    },
+    {
+      "title": "Lord",
+      "img": "assets/cards/leaders/Lord.png"
+    },
+    {
+      "title": "Tsarevna",
+      "img": "assets/cards/leaders/Tsarevna.png"
+    },
+    {
+      "title": "Vizg",
+      "img": "assets/cards/leaders/Vizg.png"
+    }
+  ]
+}
